@@ -1,3 +1,8 @@
+function sum (numbers) {
+    if (numbers.length === 0){
+
+
+
 //Tuesday March 26, 2024
 
 //TASK*******
