@@ -2,7 +2,6 @@
 
   
 
- 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){
 
     if (numbers.length === 0){if (numbers.
     if (numbers.length === 0){if (numbers.length === 0){
