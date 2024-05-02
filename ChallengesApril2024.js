@@ -2,11 +2,7 @@
 
   
 
-    if (numbers.length === 0){if (numbers.
-    if (numbers.length === 0){if (numbers.
-    if (numbers.length === 0){if (numbers.if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){
-
-    if (numbers.length === 0){if (numbers.if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){
+   mbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){
 
     if (numbers.length === 0){if (numbers.if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){if (numbers.length === 0){
 
