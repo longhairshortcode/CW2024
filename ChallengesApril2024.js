@@ -1,7 +1,7 @@
 
 
 
-.length === 0){
+th === 0){
         function sum (numbers) {
     if (numbers.length === 0){if (numbers.length === 0){
 function sum (numbers) {
